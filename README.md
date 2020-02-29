@@ -27,10 +27,4 @@ Follow Amie: [Website](https://www.amie-chen.com/), [Dribbble](http://www.dribbb
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
-Follow Albright Labs: [Twitter](http://www.twitter.com/albrightlabs), [GitHub](https://github.com/albrightlabs), [Instagram](https://instagram.com/albrightlabs)
-
-Original project
 [© Codrops 2018](http://www.codrops.com)
-
-Rebuild for OctoberCMS
-[© Albright Labs LLC 2020](https://albrightlabs.com)
