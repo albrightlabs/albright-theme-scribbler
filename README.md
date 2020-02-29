@@ -1,6 +1,6 @@
 # Scribbler - a responsive HTML template for coding projects and documentations, rebuilt for OctoberCMS
 
-![Scribbler Screenshot](./screenshot.jpg)
+![Scribbler Screenshot](./assets/images/theme-preview.png)
 
 Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great CSS3 features, such as CSS variables and CSS grid. With performance and simplicity in mind, the template is built without any extra overhead of libraries and is easy to customize.
 
