@@ -33,4 +33,4 @@ Original project
 [© Codrops 2018](http://www.codrops.com)
 
 Rebuild for OctoberCMS
-[© Codrops 2020](https://albrightlabs.com)
+[© Albright Labs LLC 2020](https://albrightlabs.com)
