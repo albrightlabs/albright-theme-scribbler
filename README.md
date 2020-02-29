@@ -1,7 +1,11 @@
 # Scribbler - a responsive HTML template for coding projects and documentations, rebuilt for OctoberCMS
 
+## Install
+Install by running `git clone https://github.com/joebuonocore/albright-theme-scribbler.git themes/scribbler; php artisan october:up;` from project root.
+
 ![Scribbler Screenshot](./assets/images/theme-preview.png)
 
+## Description
 Scribbler is a responsive HTML/CSS/Javascript template designed for developers who want to set up a small landing page and a documentation/usage page for their coding projects. It is developed with vanilla javascript and many great CSS3 features, such as CSS variables and CSS grid. With performance and simplicity in mind, the template is built without any extra overhead of libraries and is easy to customize.
 
 Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
@@ -23,4 +27,10 @@ Follow Amie: [Website](https://www.amie-chen.com/), [Dribbble](http://www.dribbb
 
 Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
 
+Follow Albright Labs: [Twitter](http://www.twitter.com/albrightlabs), [GitHub](https://github.com/albrightlabs), [Instagram](https://instagram.com/albrightlabs)
+
+Original project
 [© Codrops 2018](http://www.codrops.com)
+
+Rebuild for OctoberCMS
+[© Codrops 2020](https://albrightlabs.com)
