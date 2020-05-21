@@ -8,7 +8,7 @@ Scribbler is a responsive HTML/CSS/Javascript template designed for developers w
 Check out the details on [Codrops](https://tympanus.net/codrops/2018/01/12/freebie-scribbler-website-template-html-sketch/)
 
 ## Install
-Install by running `git clone https://github.com/joebuonocore/albright-theme-scribbler.git themes/scribbler; php artisan october:up;` from project root.
+Install by running `git clone https://github.com/albrightlabs/scribbler-theme.git themes/scribbler; php artisan october:up;` from project root.
 
 ## Live Demo
 👋 [Scribbler Live Demo](https://tympanus.net/Freebies/scribbler/)
